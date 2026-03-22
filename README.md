@@ -11,7 +11,14 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 - ⌫ Backspace functionality  
 - 📊 Real-time display update  
 - 🔒 Input validation (only numbers and operators allowed)  
-- 📱 Responsive design  
+- 📱 Responsive design
+
+---
+
+
+## 📸 Preview
+
+![Calculator - By Lokpal](Preview.png)
 
 ---
 
